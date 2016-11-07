@@ -7,3 +7,4 @@ SI 539 Web Portfolio:</br>
 4. doing the photo gallery.</br>
 5. media query works and the responsive design fit well.</br>
 6. Using the github with the final project.
+7. Add the process for this experience bar.
