@@ -6,5 +6,6 @@ SI 539 Web Portfolio:</br>
 3. Doing the background imag.</br>
 4. doing the photo gallery.</br>
 5. media query works and the responsive design fit well.</br>
-6. Using the github with the final project.
-7. Add the process for this experience bar.
+6. Using the github with the final project.</br>
+7. Add the process for this experience bar.</br>
+8. Doing the validation of the website
